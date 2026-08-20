@@ -1,5 +1,5 @@
 # README.md
-<img width="1311" height="732" alt="image" src="https://github.com/user-attachments/assets/8018097e-39f2-462d-83fd-e6ff218488fe" />
+<img width="1308" height="732" alt="image" src="https://github.com/user-attachments/assets/bf3b844a-b32d-4c23-a847-7b1c607d15e5" />
 
 # Sales Performance Dashboard – Olist E-commerce Customer Analytics
 
